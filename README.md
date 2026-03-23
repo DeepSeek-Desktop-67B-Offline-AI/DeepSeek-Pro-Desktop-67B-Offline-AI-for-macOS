@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/utoLokHG">
+  <a href="https://cutt.ly/NtOsHdzV">
     <img src="https://img.shields.io/badge/Open_DeepSeek_Pro_Guide-00D4FF?style=for-the-badge&logo=deepseek&logoColor=white"
          height="84"
          style="border-radius:42px; box-shadow:0 20px 60px rgba(0,212,255,0.6);">
